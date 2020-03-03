@@ -1,0 +1,55 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# satRday Johannesbourg workshop
+
+Building Successful Shiny Apps with `{golem}`
+
+## https://github.com/ColinFay/golem-joburg
+
+## Schedule 
+
++ 9:00	10:30 - Part 00 & 01: Introduction 
+
++ 10:30	11:00 - Break `r emo::ji("coffee")` / `r emo::ji("tea")`
+
++ 11:00	12:30 - Part 02: Building Shiny Modules
+
++ 12:30	13:30 - Lunch `r emo::ji("bento")` 
+
++ 13:30	15:00	- JavaScript & CSS
+
++ 13:30	15:00 -  Break `r emo::ji("coffee")` / `r emo::ji("tea")`
+
++ 15:30	17:00	- Testing & Sending to prod
+
+# About each session
+
+Each session is split in two: 
+
++ 40 to 45 minutes of presentation
+
++ 45 to 50 minutes of practice
+
+## Logistics 
+
++ `r emo::ji("link")` https://github.com/ColinFay/golem-joburg
+
++ `r emo::ji("antenna")` ??
+
++ `r emo::ji("baby_chick")` [\@_ColinFay](https://twitter.com/_ColinFay)
+
++ `r emo::ji("baby_chick")` [\@satRday_ZAF](https://twitter.com/satRday_ZAF)
+
++ `r emo::ji("strong")` https://joburg2020.satrdays.org/code-of-conduct-2020.html
+
