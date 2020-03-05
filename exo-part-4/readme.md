@@ -23,7 +23,3 @@
 -----
 
 📝 Continue working on the app we’ve start building.
-
-🆘 Here are some inspiration:
-
-<http://connect.thinkr.fr/joburg4/>
