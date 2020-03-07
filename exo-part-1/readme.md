@@ -5,6 +5,9 @@
 
   - 🎉 =\> SUCCESS
 
+> Notes: the project with the “answers” to this exercise will be
+> released on the repo during the break
+
 -----
 
 📝 Create a golem project & fill the `DESCRIPTION`
