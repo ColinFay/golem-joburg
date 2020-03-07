@@ -1,0 +1,12 @@
+name: joburg3
+title: joburg3
+username: Colin
+account: Colin
+server: connect.thinkr.fr
+hostUrl: http://connect.thinkr.fr/__api__
+appId: 215
+bundleId: 768
+url: http://connect.thinkr.fr/content/215/
+when: 1583437586.78321
+asMultiple: FALSE
+asStatic: FALSE

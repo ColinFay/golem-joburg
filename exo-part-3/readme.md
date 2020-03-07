@@ -32,8 +32,4 @@ JavaScript alert shows.
 📝 Create a new JavaScript handler, so that when you change the `type`, a
 JavaScript alert shows with the number of rows of the filtered result.
 
-🎉 When you launch the app, it should look like:
-
-<http://connect.thinkr.fr/joburg3/>
-
 -----

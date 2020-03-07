@@ -123,8 +123,4 @@ and `Distance` in `y`.
 📝 Add it to the `summary` module, with a `dateRangeInput` controlling
 it.
 
-🎉 When you launch the app, it should look like:
-
-<http://connect.thinkr.fr/joburg2/>
-
 -----

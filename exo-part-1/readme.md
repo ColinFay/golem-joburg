@@ -50,8 +50,4 @@ you’ve downloaded.
 📝 Go to app ui, and create a `navbarPage` with 3 panels (`Data
 overview`, `Summary`, and `About`)
 
-🎉 When you launch the app, it should look like:
-
-<http://connect.thinkr.fr/joburg1/>
-
 -----
