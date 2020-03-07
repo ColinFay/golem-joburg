@@ -34,7 +34,7 @@
 
 -----
 
-📝 Initiate three module: `data`, `summary`, and `about`. Add the UI
+📝 Initiate three modules: `data`, `summary`, and `about`. Add the UI
 inside the corresponding `tabPanel` in `app_ui.R`, and the server part
 inside `app_server`.
 
